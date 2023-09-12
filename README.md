@@ -15,7 +15,7 @@ Meu nome é João Pedro e sou um Desenvolvedor Web Full-Stack em formação na *
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-- [Kenzieflix](https://github.com/jplcordeiro/Kenzieflix) - Projeto com base na página principal da Netflix.
+- [Barbearia Web](https://github.com/jplcordeiro/m1-barbearia-web-jplcordeiro) - Projeto usando JavaScript para cadastro de clientes e preços
 - [Pedra, Papel ou Tesoura](https://github.com/jplcordeiro/Pedra-Papel-Tesoura) - Jogo de Pedra, Papel, ou Tesoura usando JavaScript.
 - [Palíndromo e Valor Máximo e Mínimo de um Array](https://github.com/jplcordeiro/m1-palindromo-min-max-jplcordeiro) - Projeto com palíndromos e valores máximos e mínimos usando JavaScript.
 
