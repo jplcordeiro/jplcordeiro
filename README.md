@@ -1,7 +1,3 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=jplcordeiro&show_icons=true&theme=radical)
-
-![Most Used Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jplcordeiro&layout=compact&theme=radical)
-
 # Bem-vindo ao meu perfil do GitHub!
 
 Meu nome é João Pedro e sou um Desenvolvedor Web Full-Stack em formação na **Kenzie Aacdemy**. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor.
@@ -18,6 +14,10 @@ Aqui estão alguns dos meus projetos mais recentes:
 - [Barbearia Web](https://github.com/jplcordeiro/m1-barbearia-web-jplcordeiro) - Projeto usando JavaScript para cadastro de clientes e preços
 - [Pedra, Papel ou Tesoura](https://github.com/jplcordeiro/Pedra-Papel-Tesoura) - Jogo de Pedra, Papel, ou Tesoura usando JavaScript.
 - [Palíndromo e Valor Máximo e Mínimo de um Array](https://github.com/jplcordeiro/m1-palindromo-min-max-jplcordeiro) - Projeto com palíndromos e valores máximos e mínimos usando JavaScript.
+
+## Linguagens
+
+![Most Used Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jplcordeiro&layout=compact&theme=radical)
 
 ## Entre em contato
 
