@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub!
 
-Meu nome é João Pedro e sou um Desenvolvedor Web Full-Stack em formação na **Kenzie Aacdemy**. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor.
+Meu nome é João Pedro e sou um Desenvolvedor Web Full-Stack em formação na **Kenzie Academy**. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor.
 
 ## Sobre mim
 
