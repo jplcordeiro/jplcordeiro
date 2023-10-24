@@ -12,7 +12,7 @@ Meu nome é João Pedro e sou um Desenvolvedor Web Full-Stack em formação na *
 Aqui estão alguns dos meus projetos mais recentes:
 
 - [Barbearia Web](https://github.com/jplcordeiro/m1-barbearia-web-jplcordeiro) - Projeto usando JavaScript para cadastro de clientes e preços
-- [Pedra, Papel ou Tesoura](https://github.com/jplcordeiro/Pedra-Papel-Tesoura) - Jogo de Pedra, Papel, ou Tesoura usando JavaScript.
+- [Website Responsivo](https://github.com/jplcordeiro/Kenzie-Academy-Brasil-Developers-m2-site-instituciona-generico-jplcordeiro) - Website responsivo para as resoluções 425px, 768px, 1024px e 1444px.
 - [Palíndromo e Valor Máximo e Mínimo de um Array](https://github.com/jplcordeiro/m1-palindromo-min-max-jplcordeiro) - Projeto com palíndromos e valores máximos e mínimos usando JavaScript.
 
 ## Linguagens
