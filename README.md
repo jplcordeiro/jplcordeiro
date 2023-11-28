@@ -22,7 +22,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 ## Portfolio
 
-Link para meu Vercel: (https://vercel.com/jplcordeiro-personal-projects)
+Link para meu Vercel: https://vercel.com/jplcordeiro-personal-projects
 
 ## Entre em contato
 
