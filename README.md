@@ -7,6 +7,7 @@ Meu nome é João Pedro e sou um Desenvolvedor Front-End em formação na **Kenz
 - 🌱 Atualmente estou aprendendo Node.js e React 
 -  📫 Como me alcançar: [E-mail](mailto:ctt.jplcordeiro@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jplcordeiro)
 
+
 ## Projetos
 
 Aqui estão alguns dos meus projetos mais recentes:
@@ -18,6 +19,10 @@ Aqui estão alguns dos meus projetos mais recentes:
 ## Linguagens
 
 ![Most Used Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jplcordeiro&layout=compact&theme=radical)
+
+## Portfolio
+
+Link para meu Vercel: (https://vercel.com/jplcordeiro-personal-projects)
 
 ## Entre em contato
 
