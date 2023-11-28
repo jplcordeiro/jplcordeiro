@@ -4,16 +4,16 @@ Meu nome é João Pedro e sou um Desenvolvedor Web Full-Stack em formação na *
 
 ## Sobre mim
 
-- 🌱 Atualmente estou aprendendo JavaScript e React.Js 
+- 🌱 Atualmente estou aprendendo Node.js e React 
 -  📫 Como me alcançar: [E-mail](mailto:ctt.jplcordeiro@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jplcordeiro)
 
 ## Projetos
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-- [Barbearia Web](https://github.com/jplcordeiro/m1-barbearia-web-jplcordeiro) - Projeto usando JavaScript para cadastro de clientes e preços
-- [Website Responsivo](https://github.com/jplcordeiro/Kenzie-Academy-Brasil-Developers-m2-site-instituciona-generico-jplcordeiro) - Website responsivo para as resoluções 425px, 768px, 1024px e 1444px.
-- [Palíndromo e Valor Máximo e Mínimo de um Array](https://github.com/jplcordeiro/m1-palindromo-min-max-jplcordeiro) - Projeto com palíndromos e valores máximos e mínimos usando JavaScript.
+- [Template portfolio](https://github.com/jplcordeiro/m3-s1-entrega-portfolio-template-jplcordeiro) - Projeto usando React para desenvolvimento de uma template de um porfolio.
+- [Git Search](https://github.com/jplcordeiro/Kenzie-Academy-Brasil-Developers-gitSearchBase-jplcordeiro) - Website responsivo usando a API do GitHub para achar perfis de desenvolvedores.
+- [Open Music](https://github.com/jplcordeiro/m2-open-music-template-jplcordeiro) - Projeto usando JavaScript e CSS responsivo de uma loja de música.
 
 ## Linguagens
 
