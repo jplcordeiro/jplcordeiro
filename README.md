@@ -4,7 +4,7 @@ Meu nome é João Pedro e sou um **Desenvolvedor Front-End**. Estou sempre em bu
 
 ## Sobre mim
 
-- 🌱 Atualmente estou aprendendo Node.js e React 
+- 🌱 Desenvolvedor FrontEnd
 -  📫 Como me alcançar: [E-mail](mailto:ctt.jplcordeiro@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jplcordeiro)
 
 
