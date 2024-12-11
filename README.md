@@ -47,7 +47,7 @@
 <br/>
 <br/>
 <br/>
-<h3 align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplcordeiro&theme=dracula" align="left"/> Conect-se comigo:</h3>
+<h3 align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplcordeiro&theme=dracula" align="left"/> Se conecta comigo:</h3>
 <div align="right">  
   <a href="https://www.linkedin.com/in/jplcordeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:devjoaocordeiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
