@@ -39,4 +39,6 @@
 <a href="https://cdnlogo.com/logo/vitejs_134039.html"><img src="https://cdn.cdnlogo.com/logos/v/23/vitejs.svg" width="40" height="40"></a>
 <a href="https://cdnlogo.com/logo/styled-components_110697.html"><img src="https://cdn.cdnlogo.com/logos/s/10/styled-components.svg" width="40" height="40"></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/></a>
-<a href="https://cdnlogo.com/logo/react-native_121902.html"><img src="https://cdn.cdnlogo.com/logos/r/18/react-native.svg" width="40" height="40"></a>    
+<a href="https://cdnlogo.com/logo/react-native_121902.html"><img src="https://cdn.cdnlogo.com/logos/r/18/react-native.svg" width="40" height="40"></a>
+
+![Jplcordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=jplcordeiro&show_icons=true&theme=radical)
