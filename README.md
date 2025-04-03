@@ -41,12 +41,6 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/></a>
 <a href="https://cdnlogo.com/logo/react-native_121902.html"><img src="https://cdn.cdnlogo.com/logos/r/18/react-native.svg" width="40" height="40"></a>    
 
-</p>  
-
-<br/>
-<br/>
-<br/>
-<br/>
 <h3 align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplcordeiro&theme=dracula" align="left"/> Se conecta comigo:</h3>
 <div align="right">  
   <a href="https://www.linkedin.com/in/jplcordeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
