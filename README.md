@@ -41,4 +41,4 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/></a>
 <a href="https://cdnlogo.com/logo/react-native_121902.html"><img src="https://cdn.cdnlogo.com/logos/r/18/react-native.svg" width="40" height="40"></a>
 
-![Jplcordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=jplcordeiro&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jplcordeiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
