@@ -7,4 +7,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jplcordeiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Tocando no meu Spotify:
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jplcordeiro)
+![Meu Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31d3txcvnyyciyug4or5k47xpqbu)
