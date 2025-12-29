@@ -4,7 +4,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jplcordeiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jplcordeiro&theme=dark&hide_border=false)<br/>
-![Jplcordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=jplcordeiro&show_icons=true&theme=radical)
 
 # Tocando no meu Spotify:
 ![Meu Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31d3txcvnyyciyug4or5k47xpqbu)
