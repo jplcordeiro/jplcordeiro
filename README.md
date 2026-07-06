@@ -54,10 +54,6 @@
 
 </div>
 
-## 🎵 Now Playing on Spotify
-
-![My Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31d3txcvnyyciyug4or5k47xpqbu)
-
 ## 📫 Get in touch
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devjoaocordeiro@gmail.com)
