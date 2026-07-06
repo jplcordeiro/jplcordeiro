@@ -12,6 +12,8 @@
 
 - 🚀 Software Engineer focused on full-stack development
 - 🛠️ Working mainly with **React, React Native, Next.js, Node.js, TypeScript, PHP, Laravel & Inertia.js**
+- 📍 Based in Brazil
+- 🗣️ Portuguese (native) · English (fluent)
 
 ## 🛠️ Tech Stack
 
