@@ -27,11 +27,9 @@
 
 ## Featured Projects
 
-<div align="center">
+**[polygon](https://github.com/jplcordeiro/polygon)** &nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-[![polygon](https://github-readme-stats.vercel.app/api/pin/?username=jplcordeiro&repo=polygon&theme=dark&hide_border=false)](https://github.com/jplcordeiro/polygon)
-
-</div>
+Territory organization tool that helps a congregation manage and locate its field service territories.
 
 ## GitHub Stats
 
