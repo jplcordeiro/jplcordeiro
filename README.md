@@ -43,6 +43,14 @@
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake animation](https://raw.githubusercontent.com/jplcordeiro/jplcordeiro/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ## 📫 Get in touch
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devjoaocordeiro@gmail.com)
