@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm João Pedro
+# Hi, I'm João Pedro
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=520&lines=Software+Engineer;React+%C2%B7+React+Native+%C2%B7+Next.js;Node.js+%C2%B7+TypeScript;Building+great+products)](https://git.io/typing-svg)
 
@@ -8,14 +8,14 @@
 
 </div>
 
-## 🧑‍💻 About me
+## About me
 
 - 🚀 Software Engineer focused on full-stack development
 - 🛠️ Working mainly with **React, React Native, Next.js, Node.js, TypeScript, PHP, Laravel & Inertia.js**
 - 📍 Based in Brazil
 - 🗣️ Portuguese (native) · English (fluent)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -25,7 +25,7 @@
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Inertia](https://img.shields.io/badge/inertia.js-%239553E9.svg?style=for-the-badge&logo=inertia&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 
 </div>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -43,7 +43,7 @@
 
 </div>
 
-## 📫 Get in touch
+## Get in touch
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devjoaocordeiro@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jplcordeiro)
