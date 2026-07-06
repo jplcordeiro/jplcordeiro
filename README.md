@@ -35,17 +35,6 @@
 
 </div>
 
-## 📌 Featured Projects
-
-<div align="center">
-
-[![Top repo](https://github-readme-stats.vercel.app/api/pin/?username=jplcordeiro&repo=REPLACE_WITH_REPO_1&theme=dark&hide_border=false)](https://github.com/jplcordeiro/REPLACE_WITH_REPO_1)
-[![Top repo](https://github-readme-stats.vercel.app/api/pin/?username=jplcordeiro&repo=REPLACE_WITH_REPO_2&theme=dark&hide_border=false)](https://github.com/jplcordeiro/REPLACE_WITH_REPO_2)
-
-</div>
-
-> ℹ️ Replace `REPLACE_WITH_REPO_1/2` above with your repo names, or delete this section and just pin repos on your profile.
-
 ## 📈 Contribution Graph
 
 <div align="center">
