@@ -46,11 +46,11 @@
 
 > ℹ️ Replace `REPLACE_WITH_REPO_1/2` above with your repo names, or delete this section and just pin repos on your profile.
 
-## 🏆 Trophies
+## 📈 Contribution Graph
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=jplcordeiro&theme=darkhub&no-frame=true&column=7&margin-w=8)
+![](https://github-readme-activity-graph.vercel.app/graph?username=jplcordeiro&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
