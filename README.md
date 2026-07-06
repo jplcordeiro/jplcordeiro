@@ -12,8 +12,6 @@
 
 - 🚀 Software Engineer focused on full-stack development
 - 🛠️ Working mainly with **React, React Native, Next.js, Node.js, TypeScript, PHP, Laravel & Inertia.js**
-- 🌱 Always learning and shipping new things — *(what are you focused on now? edit me!)*
-- 🎧 Off the keyboard, you'll find me listening to music — check out my Spotify below
 
 ## 🛠️ Tech Stack
 
