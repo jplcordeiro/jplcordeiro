@@ -41,6 +41,15 @@ Territory organization tool that helps a congregation manage and locate its fiel
 
 </div>
 
+## GitHub Roast
+
+<div align="center">
+
+![](https://ghfind.com/api/card/mini/jplcordeiro)
+
+</div>
+
+
 ## Contribution Graph
 
 <div align="center">
